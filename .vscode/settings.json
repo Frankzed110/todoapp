@@ -1,0 +1,15 @@
+{
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "cSpell.words": [
+    "addto",
+    "deleteto",
+    "myelm",
+    "Mytodo",
+    "newto",
+    "Owais",
+    "Prac",
+    "setto",
+    "Zahid"
+  ]
+}
